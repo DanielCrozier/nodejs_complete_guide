@@ -1,1 +1,10 @@
 /message.txt
+
+/.idea/vcs.xml
+
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+/jsLibraryMappings.xml
