@@ -4,7 +4,7 @@
   "main": "server.cjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.cjs",
+    "start": "nodemon server.cjs",
     "start-ass1": "node Assignment1/assignment1.cjs"
   },
   "keywords": [],
