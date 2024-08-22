@@ -4,8 +4,8 @@
   "main": "server.cjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon server.cjs",
-    "start-ass1": "node Assignment1/assignment1.cjs"
+    "start-3000": "nodemon server.cjs",
+    "start-3001": "nodemon Assignment1/assignment1.cjs"
   },
   "keywords": [],
   "author": "F8TAL88",
@@ -13,5 +13,9 @@
   "description": "NodeJS The Complete Guide Udemy Class",
   "devDependencies": {
     "nodemon": "^3.1.4"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2"
   }
 }
